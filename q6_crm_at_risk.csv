@@ -1,0 +1,101 @@
+customer_id,surname,geography,age,age_group,credit_tier,tenure,tenure_band,balance,num_of_products,is_active_member,risk_score,risk_category,estimated_ltv,recommended_action
+15568032,Moore,Germany,31,25-35,Very Good,1,New (0-2 yrs),127320.36,3,0,8,Critical Risk,2709.58,Immediate outreach required
+15797960,Skinner,Germany,59,51-65,Excellent,0,,135296.33,1,0,7,Critical Risk,2705.93,Immediate outreach required
+15754177,Bazarova,Spain,53,51-65,Good,2,New (0-2 yrs),111061.01,2,0,7,Critical Risk,2274.3,Immediate outreach required
+15586585,Duncan,Germany,51,51-65,Good,2,New (0-2 yrs),111018.98,1,0,7,Critical Risk,2393.2,Immediate outreach required
+15771728,Mackenzie,Germany,41,36-50,Fair,7,Mature (6-8 yrs),104405.54,3,0,7,Critical Risk,2209.8,Immediate outreach required
+15671209,Holden,Germany,29,25-35,Fair,5,Growing (3-5 yrs),101713.84,3,0,7,Critical Risk,2707.25,Immediate outreach required
+15794941,Chibueze,Germany,41,36-50,Fair,1,New (0-2 yrs),85906.65,3,0,7,Critical Risk,1907.29,Immediate outreach required
+15709643,Gray,France,32,25-35,Good,1,New (0-2 yrs),0.0,3,0,7,Critical Risk,85.9,Immediate outreach required
+15623314,Tucker,Germany,59,51-65,Poor,3,Growing (3-5 yrs),185967.99,1,0,6,High Risk,3954.46,Schedule retention call
+15646817,Chiekwugo,France,51,51-65,Very Good,9,Loyal (9-10 yrs),156773.78,2,0,6,High Risk,3497.8,Schedule retention call
+15755223,Tseng,Germany,53,51-65,Good,7,Mature (6-8 yrs),150926.99,2,0,6,High Risk,3857.26,Schedule retention call
+15582168,Muravyova,Germany,61,51-65,Good,4,Growing (3-5 yrs),149525.34,2,0,6,High Risk,3485.16,Schedule retention call
+15807595,Ijendu,Germany,51,51-65,Poor,7,Mature (6-8 yrs),144244.59,2,0,6,High Risk,3242.68,Schedule retention call
+15654901,Horton,France,51,51-65,Good,10,Loyal (9-10 yrs),141556.96,1,0,6,High Risk,4133.03,Schedule retention call
+15691119,Martin,Germany,68,65+,Good,4,Growing (3-5 yrs),136525.99,1,0,6,High Risk,3432.12,Schedule retention call
+15595609,Sykes,Germany,52,51-65,Good,9,Loyal (9-10 yrs),135870.01,2,0,6,High Risk,3203.75,Schedule retention call
+15737647,Obioma,Germany,77,65+,Very Good,6,Mature (6-8 yrs),135120.56,1,0,6,High Risk,2929.43,Schedule retention call
+15757617,Lewis,France,55,51-65,Good,6,Mature (6-8 yrs),134140.68,1,0,6,High Risk,2696.42,Schedule retention call
+15620111,Fan,France,54,51-65,Fair,8,Mature (6-8 yrs),133436.52,1,0,6,High Risk,3123.03,Schedule retention call
+15767818,Graham,France,55,51-65,Fair,10,Loyal (9-10 yrs),132436.34,1,0,6,High Risk,2667.16,Schedule retention call
+15648455,Kung,Germany,51,51-65,Fair,4,Growing (3-5 yrs),131156.76,1,0,6,High Risk,2742.67,Schedule retention call
+15699523,Chu,Germany,55,51-65,Poor,4,Growing (3-5 yrs),126817.65,2,0,6,High Risk,3029.43,Schedule retention call
+15639265,Isaacs,France,54,51-65,Good,7,Mature (6-8 yrs),126113.28,1,0,6,High Risk,3311.71,Schedule retention call
+15784676,Fanucci,France,51,51-65,Fair,6,Mature (6-8 yrs),125268.03,2,0,6,High Risk,3495.85,Schedule retention call
+15691504,Yusupova,Germany,52,51-65,Fair,8,Mature (6-8 yrs),124099.13,1,0,6,High Risk,2673.22,Schedule retention call
+15657468,Simmons,Germany,53,51-65,Good,5,Growing (3-5 yrs),123805.03,1,0,6,High Risk,2988.24,Schedule retention call
+15622461,Ndubuagha,France,51,51-65,Poor,7,Mature (6-8 yrs),122822.0,2,0,6,High Risk,2684.82,Schedule retention call
+15665222,Lettiere,Spain,52,51-65,Fair,8,Mature (6-8 yrs),121161.57,1,0,6,High Risk,2815.14,Schedule retention call
+15732430,H?,Spain,54,51-65,Excellent,4,Growing (3-5 yrs),120952.74,1,0,6,High Risk,2686.91,Schedule retention call
+15785576,Mayrhofer,Germany,71,65+,Poor,9,Loyal (9-10 yrs),119496.87,1,0,6,High Risk,3522.58,Schedule retention call
+15786215,Udinese,France,56,51-65,Very Good,8,Mature (6-8 yrs),119496.25,2,0,6,High Risk,2628.97,Schedule retention call
+15693690,Iweobiegbunam,Spain,52,51-65,Poor,7,Mature (6-8 yrs),115532.52,1,0,6,High Risk,3684.45,Schedule retention call
+15687079,King,Spain,69,65+,Fair,10,Loyal (9-10 yrs),115462.44,1,0,6,High Risk,2713.47,Schedule retention call
+15652626,Grave,France,55,51-65,Excellent,4,Growing (3-5 yrs),115285.85,1,0,6,High Risk,2866.22,Schedule retention call
+15728005,Urban,France,57,51-65,Good,9,Loyal (9-10 yrs),111359.55,2,0,6,High Risk,3178.63,Schedule retention call
+15807889,Wood,Germany,74,65+,Fair,5,Growing (3-5 yrs),108891.7,1,0,6,High Risk,2228.22,Schedule retention call
+15785406,Watts,France,51,51-65,Poor,4,Growing (3-5 yrs),105056.13,1,0,6,High Risk,2383.58,Schedule retention call
+15698732,K'Ung,Germany,51,51-65,Very Good,3,Growing (3-5 yrs),104677.09,1,0,6,High Risk,2316.34,Schedule retention call
+15673995,Tu,Spain,65,51-65,Poor,9,Loyal (9-10 yrs),102541.1,1,0,6,High Risk,3684.24,Schedule retention call
+15654025,Jones,France,51,51-65,Fair,4,Growing (3-5 yrs),101629.3,1,0,6,High Risk,2554.75,Schedule retention call
+15694381,Lloyd,France,51,51-65,Fair,8,Mature (6-8 yrs),100654.8,1,0,6,High Risk,3385.8,Schedule retention call
+15752857,Palerma,Germany,52,51-65,Poor,1,New (0-2 yrs),98443.14,2,0,6,High Risk,2060.9,Schedule retention call
+15643658,Barber,Germany,53,51-65,Excellent,2,New (0-2 yrs),94078.97,2,0,6,High Risk,1955.54,Schedule retention call
+15690452,Tung,France,52,51-65,Fair,1,New (0-2 yrs),63349.75,1,0,6,High Risk,1375.88,Schedule retention call
+15566660,Cole,France,41,36-50,Good,10,Loyal (9-10 yrs),0.0,3,0,6,High Risk,816.02,Schedule retention call
+15813022,Kapustina,Spain,70,65+,Poor,1,New (0-2 yrs),0.0,2,0,6,High Risk,99.5,Schedule retention call
+15771000,Powell,France,38,36-50,Good,4,Growing (3-5 yrs),0.0,3,0,6,High Risk,302.44,Schedule retention call
+15664808,Nicoll,Spain,37,36-50,Very Good,3,Growing (3-5 yrs),0.0,3,0,6,High Risk,296.69,Schedule retention call
+15569759,Rawling,France,27,25-35,Fair,4,Growing (3-5 yrs),0.0,3,0,6,High Risk,652.45,Schedule retention call
+15792868,Mickey,France,69,65+,Good,1,New (0-2 yrs),0.0,2,0,6,High Risk,157.1,Schedule retention call
+15616365,Obiuto,France,53,51-65,Poor,2,New (0-2 yrs),0.0,2,0,6,High Risk,56.09,Schedule retention call
+15661945,Nicolay,Spain,40,36-50,Fair,4,Growing (3-5 yrs),0.0,3,0,6,High Risk,126.68,Schedule retention call
+15684419,Wallace,Spain,37,36-50,Good,8,Mature (6-8 yrs),0.0,3,0,6,High Risk,573.91,Schedule retention call
+15657637,Ts'Ui,Spain,36,36-50,Good,3,Growing (3-5 yrs),0.0,3,0,6,High Risk,195.12,Schedule retention call
+15741197,Calzada,Spain,22,Under 25,Good,8,Mature (6-8 yrs),0.0,3,0,6,High Risk,858.34,Schedule retention call
+15744691,Tsai,France,29,25-35,Very Good,3,Growing (3-5 yrs),0.0,3,0,6,High Risk,14.2,Schedule retention call
+15795488,Beneventi,Spain,52,51-65,Very Good,2,New (0-2 yrs),0.0,2,0,6,High Risk,114.68,Schedule retention call
+15678916,Kelly,France,75,65+,Poor,2,New (0-2 yrs),0.0,1,0,6,High Risk,246.61,Schedule retention call
+15764105,Milne,France,57,51-65,Poor,1,New (0-2 yrs),0.0,2,0,6,High Risk,89.25,Schedule retention call
+15753079,Chidi,France,41,36-50,Fair,5,Growing (3-5 yrs),0.0,3,0,6,High Risk,756.28,Schedule retention call
+15719561,Lin,France,42,36-50,Very Good,5,Growing (3-5 yrs),0.0,3,0,6,High Risk,303.43,Schedule retention call
+15750658,Obiuto,France,37,36-50,Very Good,8,Mature (6-8 yrs),0.0,3,0,6,High Risk,886.27,Schedule retention call
+15691910,Lu,Spain,30,25-35,Fair,4,Growing (3-5 yrs),0.0,3,0,6,High Risk,405.48,Schedule retention call
+15608873,Smith,France,51,51-65,Fair,2,New (0-2 yrs),0.0,1,0,6,High Risk,106.71,Schedule retention call
+15578251,Fang,France,37,36-50,Fair,2,New (0-2 yrs),185967.99,2,0,5,High Risk,3904.98,Schedule retention call
+15737792,Abbie,France,31,25-35,Excellent,1,New (0-2 yrs),185967.99,1,0,5,High Risk,3897.61,Schedule retention call
+15731507,Mackenzie,France,33,25-35,Poor,1,New (0-2 yrs),185967.99,1,0,5,High Risk,3777.72,Schedule retention call
+15624729,Tsao,France,27,25-35,Fair,0,,185967.99,1,0,5,High Risk,3719.36,Schedule retention call
+15745433,Conti,Germany,30,25-35,Good,2,New (0-2 yrs),185967.99,2,0,5,High Risk,3850.29,Schedule retention call
+15766458,Tang,France,33,25-35,Poor,1,New (0-2 yrs),185967.99,1,0,5,High Risk,3789.02,Schedule retention call
+15807245,Mckay,Germany,41,36-50,Good,1,New (0-2 yrs),185967.99,2,0,5,High Risk,3813.5,Schedule retention call
+15804721,Boni,France,49,36-50,Fair,0,,185967.99,1,0,5,High Risk,3719.36,Schedule retention call
+15786042,Willmore,Germany,44,36-50,Good,2,New (0-2 yrs),185932.18,2,0,5,High Risk,3849.47,Schedule retention call
+15616152,Pai,France,47,36-50,Very Good,1,New (0-2 yrs),185513.67,1,0,5,High Risk,3737.71,Schedule retention call
+15600911,Mbadiwe,France,33,25-35,Good,2,New (0-2 yrs),182888.08,1,0,5,High Risk,3663.88,Schedule retention call
+15775104,Gomes,France,38,36-50,Good,1,New (0-2 yrs),182065.85,1,0,5,High Risk,3690.82,Schedule retention call
+15690372,Henry,Spain,38,36-50,Poor,1,New (0-2 yrs),181110.13,2,0,5,High Risk,3806.75,Schedule retention call
+15707078,Kruglov,France,26,25-35,Poor,1,New (0-2 yrs),180530.51,1,0,5,High Risk,3734.06,Schedule retention call
+15728006,Endrizzi,France,40,36-50,Poor,2,New (0-2 yrs),180516.9,1,0,5,High Risk,3970.34,Schedule retention call
+15681843,Barbour,Germany,35,25-35,Fair,0,,180303.24,2,0,5,High Risk,3606.06,Schedule retention call
+15711251,Chizuoke,France,45,36-50,Poor,1,New (0-2 yrs),178827.79,1,0,5,High Risk,3636.93,Schedule retention call
+15780961,Cavenagh,France,21,Under 25,Good,1,New (0-2 yrs),178718.19,2,0,5,High Risk,3596.75,Schedule retention call
+15739194,Manfrin,Spain,38,36-50,Poor,0,,178056.54,2,0,5,High Risk,3561.13,Schedule retention call
+15744914,Moore,Germany,42,36-50,Poor,1,New (0-2 yrs),177728.55,1,0,5,High Risk,3659.58,Schedule retention call
+15665327,Cattaneo,France,18,Under 25,Good,2,New (0-2 yrs),176139.5,2,0,5,High Risk,3782.1,Schedule retention call
+15757632,Hughes-Jones,France,41,36-50,Poor,1,New (0-2 yrs),176024.05,2,0,5,High Risk,3702.82,Schedule retention call
+15569430,Burrows,Spain,36,36-50,Good,2,New (0-2 yrs),175509.8,2,0,5,High Risk,3814.28,Schedule retention call
+15726289,Cawood,France,25,Under 25,Fair,0,,174400.36,1,0,5,High Risk,3488.01,Schedule retention call
+15705298,L?,Germany,29,25-35,Good,0,,172693.54,1,0,5,High Risk,3453.87,Schedule retention call
+15795954,Ndukaku,France,35,25-35,Very Good,2,New (0-2 yrs),172274.01,1,0,5,High Risk,3490.23,Schedule retention call
+15741403,Amechi,Spain,38,36-50,Good,1,New (0-2 yrs),171848.38,1,0,5,High Risk,3453.93,Schedule retention call
+15632210,Hill,Germany,25,Under 25,Fair,2,New (0-2 yrs),171770.55,1,0,5,High Risk,3480.9,Schedule retention call
+15707110,Endrizzi,Germany,28,25-35,Fair,2,New (0-2 yrs),170890.05,2,0,5,High Risk,3501.32,Schedule retention call
+15572265,Wu,Germany,46,36-50,Fair,1,New (0-2 yrs),170826.55,2,0,5,High Risk,3461.57,Schedule retention call
+15571973,Chinwemma,France,38,36-50,Very Good,2,New (0-2 yrs),169824.46,1,0,5,High Risk,3735.07,Schedule retention call
+15783501,Findlay,France,38,36-50,Excellent,2,New (0-2 yrs),168190.33,2,0,5,High Risk,3499.91,Schedule retention call
+15609676,Nkemakonam,France,35,25-35,Good,2,New (0-2 yrs),167924.95,1,0,5,High Risk,3444.55,Schedule retention call
+15701962,Scott,Spain,29,25-35,Fair,2,New (0-2 yrs),166930.76,2,0,5,High Risk,3583.59,Schedule retention call
+15701605,Forster,France,37,36-50,Excellent,1,New (0-2 yrs),166115.42,1,0,5,High Risk,3389.52,Schedule retention call
+15650086,Uchenna,France,43,36-50,Good,2,New (0-2 yrs),165896.0,2,0,5,High Risk,3579.51,Schedule retention call

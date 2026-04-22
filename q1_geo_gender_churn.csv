@@ -1,0 +1,7 @@
+geography,gender,total_customers,churned_customers,active_customers,churn_rate_pct
+Germany,Female,1193,448.0,745.0,37.55
+Germany,Male,1316,366.0,950.0,27.81
+Spain,Female,1089,231.0,858.0,21.21
+France,Female,2261,460.0,1801.0,20.34
+Spain,Male,1388,182.0,1206.0,13.11
+France,Male,2753,351.0,2402.0,12.75

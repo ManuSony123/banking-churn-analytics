@@ -1,0 +1,5 @@
+product_id,product_name,product_category,interest_rate_pct,is_active,launch_year
+101,Savings Account,Deposit,3.5,1,2015
+102,Fixed Deposit,Deposit,6.8,1,2015
+103,Personal Loan,Loan,12.5,1,2015
+104,Credit Card,Credit,18.0,1,2015

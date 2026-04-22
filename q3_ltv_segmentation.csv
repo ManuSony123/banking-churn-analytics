@@ -1,0 +1,5 @@
+ltv_quartile,segment_label,customer_count,min_ltv,max_ltv,avg_ltv,churned_in_segment,segment_churn_rate_pct
+1,Platinum (Top 25%),2500,3069.39,5631.35,3632.47,618.0,24.72
+2,Gold (26-50%),2500,2310.74,3069.16,2701.11,615.0,24.6
+3,Silver (51-75%),2500,652.11,2310.63,1533.88,454.0,18.16
+4,Bronze (Bottom 25%),2500,0.0,651.86,254.24,351.0,14.04

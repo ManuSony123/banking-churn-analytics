@@ -1,0 +1,5 @@
+product_name,product_category,interest_rate_pct,customer_count,transaction_count,total_revenue,avg_transaction_value,churned_transactions,product_churn_rate_pct,revenue_rank
+Savings Account,Deposit,3.5,9943,128714,738556096.79,5737.96,28317.0,22.0,1
+Fixed Deposit,Deposit,6.8,4851,41409,173553919.77,4191.21,4540.0,10.96,2
+Personal Loan,Loan,12.5,315,1798,10080421.26,5606.46,1554.0,86.43,3
+Credit Card,Credit,18.0,59,289,1750789.88,6058.1,289.0,100.0,4

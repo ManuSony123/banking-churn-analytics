@@ -1,0 +1,26 @@
+Banking Churn Analytics — Phase 3 ETL Quality Report
+Generated: 2026-04-19 11:22:52
+============================================================
+
+Source rows        : 10,000
+Staging rows       : 10,000
+Retention          : 100.0%
+Staging columns    : 32
+Quality gate       : PASSED
+
+SCD Type 2 setup:
+  effective_start_date : 2026-04-19
+  effective_end_date   : 9999-12-31
+  is_current           : all 1 (initial load)
+
+Churn distribution in staging:
+  Churned : 2,038  (20.4%)
+  Active  : 7,962  (79.6%)
+
+Risk distribution:
+  Low Risk        : 4,523
+  Medium Risk     : 4,379
+  High Risk       : 900
+  Critical Risk   : 198
+
+STATUS: Ready for Phase 4 (MySQL warehouse load).

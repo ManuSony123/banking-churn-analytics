@@ -1,0 +1,3 @@
+member_status,total_customers,churned,churn_rate_pct,avg_balance
+Active Member,5151,735.0,14.27,75762.15
+Inactive Member,4849,1303.0,26.87,77015.13

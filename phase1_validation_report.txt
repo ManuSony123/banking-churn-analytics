@@ -1,0 +1,33 @@
+Banking Churn Analytics — Phase 1 Validation Report
+Generated: 2026-04-19 11:22:17
+============================================================
+
+Dataset: BankChurners.csv
+Total rows         : 10,000
+Total columns      : 18
+Duplicate rows     : 0
+Duplicate Cust IDs : 0
+Columns with nulls : 0
+Churn rate         : 20.4%
+
+Column null summary:
+  RowNumber             : 0 nulls
+  CustomerId            : 0 nulls
+  Surname               : 0 nulls
+  CreditScore           : 0 nulls
+  Geography             : 0 nulls
+  Gender                : 0 nulls
+  Age                   : 0 nulls
+  Tenure                : 0 nulls
+  Balance               : 0 nulls
+  NumOfProducts         : 0 nulls
+  HasCrCard             : 0 nulls
+  IsActiveMember        : 0 nulls
+  EstimatedSalary       : 0 nulls
+  Exited                : 0 nulls
+  Complain              : 0 nulls
+  Satisfaction Score    : 0 nulls
+  Card Type             : 0 nulls
+  Point Earned          : 0 nulls
+
+STATUS: Raw data validated. Ready for Phase 2 (EDA).

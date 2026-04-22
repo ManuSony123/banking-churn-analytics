@@ -1,0 +1,24 @@
+Banking Churn Analytics — Phase 2 EDA Findings
+Generated: 2026-04-19 11:22:29
+============================================================
+
+TOP CHURN DRIVERS (ranked by strength):
+  1. NumOfProducts = 3 or 4       → >80% churn rate
+  2. IsActiveMember = 0            → nearly 2x churn
+  3. Age 51+                       → highest age-group churn
+  4. Geography = Germany           → highest country churn
+  5. High Balance (>100k)          → paradoxically higher churn
+  6. Gender = Female               → higher churn than males
+  7. Short Tenure (1-3 yrs)        → elevated churn window
+
+INTERACTION EFFECTS:
+  - Germany + Female = worst segment
+  - 3-4 products + Inactive = near-certain churn
+  - High Balance + Age 51+ = highest revenue at risk
+
+STAGING IMPLICATIONS (Phase 3 actions):
+  - Create AgeGroup, TenureBand, CreditTier derived columns
+  - Create HighValueFlag (Balance > 100000)
+  - Build risk score using: Products, ActiveMember, Age, Balance
+
+STATUS: EDA complete. Ready for Phase 3 (Staging + ETL).

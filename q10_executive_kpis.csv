@@ -1,0 +1,2 @@
+total_customers,total_churned,total_active,overall_churn_rate_pct,total_revenue_at_risk,avg_churner_balance,critical_risk_active_count,high_risk_active_count,avg_customer_ltv,total_portfolio_ltv
+10000,2038.0,7962.0,20.38,185100755.46,90824.71,8.0,439.0,2030.42,20304247.02
